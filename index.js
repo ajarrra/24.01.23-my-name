@@ -15,3 +15,7 @@ let myWeight = 52;
 let myHeight = 165;
 let myCoure = 3;
 let myFavoriteNumber = 13;
+
+
+let myDoorIsOpen = true;
+let myWindowsOpen = false;
