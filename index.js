@@ -65,13 +65,29 @@ else {
 }
 
 //является ли число 5 четным или не четным 
-let x = 6;
+let x = 5;
 if (x % 2 === 0 ){
     console.log( "четное"); 
 } 
-else{
-    console.log ("не четное")
+else if ( x % 2 === 1){
+    console.log ("не четное");
 }
+else {
+    console.log ("ошибка");
+}
+
+// У васи 212 с , хватит ли ему денег на мороженное которая стоит 40
+let kg = 212;
+let cost = 40;
+if ( kg > cost ){
+    console.log ("хватит"); 
+}
+else {
+    console.log ("не хватит");
+}
+
+
+
 
 
 
