@@ -50,7 +50,19 @@ let d = 5,
  i = 5,
  f = 5; //тоже можно вместе 
 
- 
+let number = 5 ;
+if (number > 0){ 
+    console.log("Число " + number + " положительное ");
+}
+else if (number < 0 ){
+    console.log("Число " + number + " отрицательное");
+}
+else if (number === 0){
+    console.log (" Число ноль не отрицательное и не положительное ");
+}
+else {
+    console.log(number + " не является числом")
+}
 
 
 
