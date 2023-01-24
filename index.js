@@ -51,13 +51,13 @@ let d = 5,
  f = 5; //тоже можно вместе 
 
 let number = 5 ;
-if (number > 0){ 
+if (number > 0){ //если число больше нуля
     console.log("Число " + number + " положительное ");
 }
-else if (number < 0 ){
+else if (number < 0 ){// если меньше
     console.log("Число " + number + " отрицательное");
 }
-else if (number === 0){
+else if (number === 0){//если равно
     console.log (" Число ноль не отрицательное и не положительное ");
 }
 else {
