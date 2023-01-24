@@ -7,5 +7,5 @@ let myMom = "Ainura";
 let myFood = "pizza";
 let myJuice = "Coke";
 let myFavoriteBook = "Agata Cristie";
-let myPhone = "Secret";
+let myAge = 18;
 
