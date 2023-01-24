@@ -37,6 +37,12 @@ let example14 = 17 % 2; // остаток
 let example15 = 64 ** ( 1 / 3 );
 
 
+let example16 = 10 > 5;
+let example17 = 15 < 50;
+let example18 = 10 === 10;
+let example19 = 30 >= 20;
+let example20 = 5 !== 15;
+let example21 = 10 <= 10;
 
 
 
